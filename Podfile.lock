@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (4.8.1)
+  - CodableAlamofire (1.1.0):
+    - Alamofire (~> 4.0)
+  - Dip (7.0.1)
+  - R.swift (5.0.2):
+    - R.swift.Library (~> 5.0.0)
+  - R.swift.Library (5.0.0)
+  - ReSwift (4.0.1)
+  - ReSwiftRouter (0.6.0):
+    - ReSwift (~> 4.0.0)
+
+DEPENDENCIES:
+  - CodableAlamofire
+  - Dip
+  - R.swift
+  - ReSwift
+  - ReSwiftRouter
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CodableAlamofire
+    - Dip
+    - R.swift
+    - R.swift.Library
+    - ReSwift
+    - ReSwiftRouter
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  CodableAlamofire: e2d2edcec7cf413f7862c30c8fa98eded27a83f9
+  Dip: 79509d5dc4f648e10e922ed79c608a7761c52b13
+  R.swift: 81455d81467763cbd3f4d79d938d05f4ac4c0228
+  R.swift.Library: 0bf390e729bc10bb2c9e4fb78bd043164a7be4ff
+  ReSwift: f4012c613e13da7398827fe5aebdb938eaed40a3
+  ReSwiftRouter: 81f41b37a5dd1c88e1d3d10a660ff2dcc939ba7c
+
+PODFILE CHECKSUM: eb45bef5c5a8652aa0b311e02e54bccd0f3c6172
+
+COCOAPODS: 1.5.3
